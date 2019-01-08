@@ -1,4 +1,4 @@
-# Gerador-De-Debito
+# Debit-Generator
 Generator of List of Persons and Debit
 
 Install Node JS
